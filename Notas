@@ -1,0 +1,29 @@
+variável Scanner: faz a leitura de um valor digitado no console
+
+Tipos de dados existentes: Double (tipo numerico), variavel armazena um numero.
+VTipo de dado serve para dizer para o JAVA qual o dado que a variavel vai armazenar.
+
+3 tipos de variaveis:
+
+Numericos inteiros:
+
+- Byte
+- Short
+- Integer
+- Long
+
+Numericos decimais:
+
+- Double
+- Float
+
+Texto:
+
+- Char (um caracter somente) vogal, consoante, numero mas em formato de texto.
+- String (qualquer quantidade de caracter)
+
+Logicos:
+
+- Boolean (condição: if, else, ...), tomar decisoes dentro de algoritimos.
+
+** Tipo primitivo () **
